@@ -5,7 +5,7 @@
 </div>
 
 [![Status](https://img.shields.io/badge/status-student%20-brightgreen.svg)](https://github.com/shimazahabi)
-[![Gmail](https://img.shields.io/badge/shimazahabi@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:shimazahabi@gmail.com)](mailto:shimazahabi@gmail.com)
+[![Gmail](https://img.shields.io/badge/shimazahabi@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:shimazahabi83@gmail.com)](mailto:shimazahabi83@gmail.com)
 [![Instagram](https://img.shields.io/badge/-shima_z2004-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/shima_z2004?r=nametag)](https://www.instagram.com/shima_z2004?r=nametag)
 [![Telegram](https://img.shields.io/badge/-Shima_z2004-E4405F?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Shima_z2004)](https://t.me/Shima_z2004)
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
